@@ -1,5 +1,17 @@
 # sv
 
+## 0.8.2
+### Patch Changes
+
+
+- fix: rename Cloudflare adapter option from `cloudflare-pages` to `cloudflare` ([#545](https://github.com/sveltejs/cli/pull/545))
+
+
+- chore: update `adapter-auto` ([#542](https://github.com/sveltejs/cli/pull/542))
+
+
+- fix: use connection pool when using mysql2 with `drizzle` ([#537](https://github.com/sveltejs/cli/pull/537))
+
 ## 0.8.1
 ### Patch Changes
 
